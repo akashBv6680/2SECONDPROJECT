@@ -1,4 +1,9 @@
+<div align="center">
+<h1 style="color: #e9c46a; font-size: 3em; font-weight: bold;">
 📊 Data-Driven Stock Analysis Dashboard
+</h1>
+</div>
+
 This project provides a comprehensive Streamlit web application for analyzing stock market data, focusing on key performance metrics, volatility, sector-wise performance, and inter-stock correlations. It processes raw YAML data, transforms it into a usable format, and presents insights through interactive visualizations.
 
 ✨ Features
@@ -146,3 +151,4 @@ Streamlit will then build and deploy your application, providing you with a publ
 Background Colors: To change the dashboard's background color, edit the background-color hex codes in the <style> block at the beginning of app.py. You can also adjust header and text colors for contrast.
 
 Plot Colors: Matplotlib and Seaborn offer various color palettes (cmap for heatmaps, color for bars). Refer to their documentation for more options.
+
